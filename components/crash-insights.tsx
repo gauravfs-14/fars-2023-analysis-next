@@ -34,7 +34,7 @@ export default function CrashInsights() {
     return (
       <section id="crash-insights" className="py-16">
         <div className="container mx-auto px-4">
-          <h2 className="section-title">Crash Insights</h2>
+          <h2 className="section-title">Non-Motorist Crash Insights</h2>
           <Skeleton className="h-[400px] w-full rounded-lg" />
         </div>
       </section>
@@ -145,9 +145,9 @@ export default function CrashInsights() {
     <section id="crash-insights" className="py-20 bg-gray-50">
       <div className="container mx-auto px-6">
         <ScrollReveal>
-          <h2 className="section-title">Crash Insights</h2>
+          <h2 className="section-title">Non-Motorist Crash Insights</h2>
           <p className="section-description">
-            Analyzing crash patterns across time, demographics, and
+            Analyzing non-motorist crash patterns across time, demographics, and
             environmental factors
           </p>
         </ScrollReveal>

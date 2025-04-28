@@ -62,9 +62,9 @@ export default function QuickStats() {
 
   const stats = [
     {
-      title: "Total Crashes",
+      title: "Total Non-Motorist Crashes",
       value: formatNumber(totalCrashes),
-      description: `Across ${Object.keys(data.crashesByYear).length} years of data`,
+      description: `Overview of non-motorist crash data`,
       icon: <AlertTriangle className="h-5 w-5 text-blue-600" />,
       color: "from-blue-50 to-indigo-50",
       borderColor: "border-blue-200",

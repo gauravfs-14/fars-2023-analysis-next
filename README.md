@@ -1,14 +1,14 @@
 # FARS 2023 Analysis
 
-This project is a web application designed to analyze and visualize data from the Fatality Analysis Reporting System (FARS) for the years 2016-2023. The application provides insights into crash statistics, trends, and correlations using interactive components and visualizations.
+This project is a web application designed to analyze and visualize data from the Fatality Analysis Reporting System (FARS) for the years 2016-2023. The application provides insights into non-motorist crash statistics, trends, and correlations using interactive components and visualizations.
 
 ## Features
 
-- **Quick Statistics**: Overview of key metrics such as total crashes, most dangerous times, and affected states.
-- **Crash Timeline**: Visual representation of crash trends over time.
-- **Data Explorer**: Interactive tool to explore crash data by various dimensions.
-- **Weather Correlation**: Analysis of weather conditions and their impact on crashes.
-- **City Scorecard**: Detailed crash statistics for specific cities.
+- **Quick Statistics**: Overview of key metrics such as total non-motorist crashes, most dangerous times, and affected states.
+- **Crash Timeline**: Visual representation of non-motorist crash trends over time.
+- **Data Explorer**: Interactive tool to explore non-motorist crash data by various dimensions.
+- **Weather Correlation**: Analysis of weather conditions and their impact on non-motorist crashes.
+- **City Scorecard**: Detailed non-motorist crash statistics for specific cities.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 
 ## Tech Stack
